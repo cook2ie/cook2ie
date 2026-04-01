@@ -14,9 +14,14 @@ Building clean UI with solid structure
 ---
 
 ## 🚀 Projects
-- **port** : 개인 포트폴리오 웹사이트 (UI/UX + Publishing)
-- **korea-water** : JavaScript 기반 인터랙션 구현 (2인팀 프로젝트)
-- **neowiz** : 반응형 웹 퍼블리싱 프로젝트 (개인 프로젝트)
+- **port**  
+  개인 포트폴리오 웹사이트 (UI/UX + Publishing)
+
+- **korea-water**  
+  JavaScript 기반 인터랙션 구현 (2팀 프로젝트)
+
+- **neowiz**  
+  반응형 웹 퍼블리싱 프로젝트 (개인 프로젝트)
 
 ---
 
@@ -37,4 +42,4 @@ Building clean UI with solid structure
 ---
 
 ## 🌐 Portfolio
-👉 https://cook2ie.github.io/port/
+👉 [포트폴리오 바로가기](https://cook2ie.github.io/port/)
