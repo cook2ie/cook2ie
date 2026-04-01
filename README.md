@@ -1,3 +1,4 @@
+Building clean UI with solid structure
 # 👋 이승재입니다
 
 디자인과 퍼블리싱을 함께 다루는 웹 퍼블리셔입니다.  
@@ -16,6 +17,7 @@
 - **port** : 개인 포트폴리오 사이트
 - **korea-water** : 인터랙션 기반 웹 구현 (2인팀 프로젝트)
 - **neowiz** : 반응형 웹 퍼블리싱 프로젝트 (개인 프로젝트)
+- **skyticket**
 
 ---
 
