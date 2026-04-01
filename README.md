@@ -1,43 +1,42 @@
-# 👋 안녕하세요, 이승재입니다
+# 👋 이승재입니다
 
-Web Publisher & UX/UI Designer  
-Building clean UI with solid structure
+디자인과 퍼블리싱을 함께 다루며  
+실제 사용되는 결과물을 만드는 웹 퍼블리셔입니다.
 
----
-
-## 💻 About Me
-- 🎨 UI/UX Design + Web Publishing
-- 🧩 ![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![jQuery](https://img.shields.io/badge/jQuery-brown)
-- 🛠 Figma / Photoshop / Illustrator
-- 🚀 사용자 경험과 코드 구조를 함께 고민합니다
+단순히 화면을 만드는 것이 아니라  
+구조가 깔끔하고 유지보수가 쉬운 코드를 지향합니다.
 
 ---
 
-## 📂 Projects
-- 웹사이트 리디자인 (UI 개선 + 퍼블리싱)
-- 인터랙션 기반 웹 구현 (GSAP / Swiper)
-- 반응형 웹 & UI 설계
+## 💻 What I Do
+- UI/UX 기반 웹 디자인 및 퍼블리싱
+- HTML, CSS, JavaScript를 활용한 인터페이스 구현
+- 인터랙션과 사용자 흐름을 고려한 화면 설계
 
 ---
 
 ## 🧠 Skills
 
-### 🎨 Design
+### Design
 - Figma / Photoshop / Illustrator
-- UI/UX Design
+- UI/UX 설계
 
-### 💻 Publishing
+### Publishing
 - HTML / CSS / JavaScript / jQuery
 - GSAP / ScrollTrigger / Swiper
 
-### ⚡ Front-End
-- React (기초)
+### Front-End
+- React (기초 수준)
 - Git / GitHub 협업 경험
 
 ---
 
+## 📂 Work
+- 웹사이트 리디자인 및 UI 개선
+- 반응형 웹 제작
+- 인터랙션 기반 페이지 구현
+
+---
+
 ## 🌐 Portfolio
-👉 https://cook2ie.github.io/port/
+https://cook2ie.github.io/port/
