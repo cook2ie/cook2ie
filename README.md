@@ -1,8 +1,11 @@
-Building clean UI with solid structure
+Building clean UI with solid structure  
+
 # 👋 이승재입니다
 
 디자인과 퍼블리싱을 함께 다루는 웹 퍼블리셔입니다.  
 보기 좋은 화면을 넘어서, 구조가 깔끔하고 유지보수가 쉬운 인터페이스를 만드는 데 집중합니다.
+
+사용자 경험과 코드 구조를 함께 고려하는 작업을 지향합니다.
 
 ---
 
@@ -27,15 +30,15 @@ Building clean UI with solid structure
 
 ## 🧠 Skills
 
-### Design
+### 🎨 Design
 - Figma / Photoshop / Illustrator
 - UI/UX 설계 및 시각 디자인
 
-### Publishing
+### 💻 Publishing
 - HTML / CSS / JavaScript / jQuery
 - GSAP / ScrollTrigger / Swiper
 
-### Front-End
+### ⚡ Front-End
 - React (기초)
 - Git / GitHub 협업 경험
 
