@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 안녕하세요, 이승재입니다
 
-<!--
-**cook2ie/cook2ie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Publisher & UX/UI Designer  
+Building clean UI with solid structure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🎨 UI/UX Design + Web Publishing
+- 🧩 HTML / CSS / JavaScript / jQuery
+- 🛠 Figma / Photoshop / Illustrator
+- 🚀 사용자 경험과 코드 구조를 함께 고민합니다
+
+---
+
+## 📂 Projects
+- 웹사이트 리디자인 (UI 개선 + 퍼블리싱)
+- 인터랙션 기반 웹 구현 (GSAP / Swiper)
+- 반응형 웹 & UI 설계
+
+---
+
+## 🧠 Skills
+
+### 🎨 Design
+- Figma / Photoshop / Illustrator
+- UI/UX Design
+
+### 💻 Publishing
+- HTML / CSS / JavaScript / jQuery
+- GSAP / ScrollTrigger / Swiper
+
+### ⚡ Front-End
+- React (기초)
+- Git / GitHub 협업 경험
+
+---
+
+## 🌐 Portfolio
+👉 https://cook2ie.github.io/port/
