@@ -3,6 +3,10 @@
 Web Publisher & UX/UI Designer  
 Building clean UI with solid structure
 
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 ---
 
 ## 💻 About Me
