@@ -1,50 +1,60 @@
-Building clean UI with solid structure  
+# 📺 Portfolio Website (Personal Project)
 
-# 👋 이승재입니다
+👉 **[Live Site 바로가기](https://cook2ie.github.io/port/)**
 
-디자인과 퍼블리싱을 함께 다루는 웹 퍼블리셔입니다.  
-보기 좋은 화면을 넘어서, 구조가 깔끔하고 유지보수가 쉬운 인터페이스를 만드는 데 집중합니다.
-
-사용자 경험과 코드 구조를 함께 고려하는 작업을 지향합니다.
+이 레포지토리는 포트폴리오 웹사이트의 실제 구현 코드입니다.
+(UI/UX 설계부터 퍼블리싱까지 직접 작업)
 
 ---
 
-## 💻 What I Do
-- UI/UX 기반 웹 디자인 및 퍼블리싱
-- HTML, CSS, JavaScript를 활용한 인터페이스 구현
-- 사용자 흐름과 인터랙션을 고려한 화면 설계
+## 🧩 Overview
+
+* 반응형 웹 구현 (Desktop / Tablet / Mobile)
+* 프로젝트 중심 구조 설계
+* 스크롤 기반 인터랙션 적용
 
 ---
 
-## 🚀 Projects
+## 🛠 Tech Stack
 
-- **[port](https://github.com/cook2ie/port)**  
-  개인 포트폴리오 웹사이트 (UI/UX + Publishing)
-  👉 [Live Site](https://cook2ie.github.io/port/)
-
-- **[korea-water](https://github.com/cook2ie/korea-water)**  
-  JavaScript 기반 인터랙션 구현 (2인 팀 프로젝트)
-
-- **[neowiz](https://github.com/cook2ie/neowiz)**  
-  반응형 웹 퍼블리싱 프로젝트 (개인 프로젝트)
+* HTML / CSS / JavaScript
+* jQuery
+* GSAP / ScrollTrigger
 
 ---
 
-## 🧠 Skills
+## 💡 Implementation Details
 
-### 🎨 Design
-- Figma / Photoshop / Illustrator
-- UI/UX 설계 및 시각 디자인
-
-### 💻 Publishing
-- HTML / CSS / JavaScript / jQuery
-- GSAP / ScrollTrigger / Swiper
-
-### ⚡ Front-End
-- React (기초)
-- Git / GitHub 협업 경험
+* 섹션별 스크롤 트리거 기반 애니메이션 구현
+* 프로젝트 모달 UI 구성 및 상태 제어
+* 반응형 대응을 위한 레이아웃 구조 설계
+* 인터랙션 흐름에 맞춘 DOM 구조 설계
 
 ---
 
-## 🌐 Portfolio
-👉 [포트폴리오 바로가기](https://cook2ie.github.io/port/)
+## 📁 Structure
+
+```bash
+css/
+images/
+js/
+index.html
+```
+
+---
+
+## 🎯 Key Focus
+
+* 유지보수성을 고려한 구조적인 CSS 설계
+* 사용자 흐름을 고려한 인터랙션 구성
+* 시각 디자인과 코드 구조의 균형
+
+---
+
+## 🔗 Related Projects
+
+포트폴리오에 포함된 다른 프로젝트는 아래에서 확인할 수 있습니다.
+
+* **Neowiz**
+* **Korea Water**
+
