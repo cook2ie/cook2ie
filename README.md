@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Seungjae Lee
+# 👋 안녕하세요, 코딩하는 디자이너 이 승 재 입니다.
 
 ### Building clean UI with solid structure
 
