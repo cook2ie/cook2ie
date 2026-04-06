@@ -1,61 +1,85 @@
-# 📺 Portfolio Website (Personal Project)
+<div align="center">
 
-👉 **[Live Site 바로가기](https://cook2ie.github.io/port/)**
+# 👋 Hi, I'm Seungjae Lee
 
-이 레포지토리는 개인 포트폴리오 웹사이트를 구현한 프로젝트입니다.  
-UI/UX 설계부터 퍼블리싱까지 직접 작업했습니다.
+### Building clean UI with solid structure
+
+디자인과 퍼블리싱을 함께 다루는 웹 퍼블리셔입니다.  
+보기 좋은 화면을 넘어서, 구조가 깔끔하고 유지보수가 쉬운 인터페이스를 만드는 데 집중합니다.
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white)](https://cook2ie.github.io/port/)
+[![GitHub](https://img.shields.io/badge/GitHub-cook2ie-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cook2ie)
+
+</div>
 
 ---
 
-## 🧩 Overview
+## 🧑‍💻 About Me
 
-* 반응형 웹 구현 (Desktop / Tablet / Mobile)
-* 프로젝트 중심 구조 설계
-* 스크롤 기반 인터랙션 적용
-
----
-
-## 💡 Implementation Details
-
-* GSAP / ScrollTrigger를 활용한 스크롤 애니메이션 구현
-* 프로젝트 모달 UI 구성 및 상태 제어
-* 인터랙션 흐름을 고려한 DOM 구조 설계
-* 반응형 대응을 위한 레이아웃 구성
-* 컴포넌트 단위로 구조를 분리하여 유지보수성을 고려
+- UI/UX를 함께 고민하며 퍼블리싱하는 웹 퍼블리셔
+- HTML, CSS, JavaScript 기반의 구조적인 마크업과 인터페이스 구현에 집중
+- 반응형 레이아웃과 유지보수성을 고려한 코드 작성을 지향
+- 브랜드 무드와 정보 전달의 균형을 중요하게 생각함
 
 ---
 
 ## 🛠 Tech Stack
 
-* HTML / CSS / JavaScript
-* jQuery
-* GSAP / ScrollTrigger / Swiper
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### Library / Tool
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 ---
 
-## 🎯 Key Focus
+## 🚀 Projects
 
-* 가독성과 유지보수성을 고려한 CSS 구조 설계
-* 사용자 시선 흐름을 고려한 UI 구성
-* 디자인과 코드 구조의 균형
-* 반응형 환경에서도 일관된 사용자 경험 유지
+- **[Portfolio](https://github.com/cook2ie/port)**  
+  개인 포트폴리오 웹사이트
+
+- **[SL](https://github.com/cook2ie/sl)**  
+  기업 웹사이트 클론코딩 및 반응형 퍼블리싱
+
+- **[Neowiz](https://github.com/cook2ie/neowiz)**  
+  반응형 웹 퍼블리싱 프로젝트
+
+- **[K-water](https://github.com/cook2ie/korea-water)**  
+  공공기관 웹사이트 메인 페이지 클론코딩 (Team Project)
+
+- **[Logitech Redesign](https://github.com/cook2ie/logi-re)**  
+  브랜드 무드를 재해석한 웹 리디자인 프로젝트
 
 ---
 
-## 📁 Structure
+## 📌 Focus
 
-```bash
-css/
-images/
-js/
-index.html
-```
+- 구조적인 마크업
+- 반응형 레이아웃 설계
+- 유지보수를 고려한 클래스 구조
+- 사용자 흐름을 고려한 UI 구성
+- 브랜드 톤과 정보 전달의 균형
 
 ---
 
-## 🔗 Related Projects
+## 🌐 Portfolio
 
-포트폴리오 사이트 내에서 확인할 수 있는 주요 프로젝트입니다.
+👉 [https://cook2ie.github.io/port/](https://cook2ie.github.io/port/)
 
-* [Neowiz](https://github.com/cook2ie/neowiz)
-* [Korea Water](https://github.com/cook2ie/korea-water)
+---
+
+## 📫 Contact
+
+- GitHub: [github.com/cook2ie](https://github.com/cook2ie)
+- Portfolio: [cook2ie.github.io/port](https://cook2ie.github.io/port/)
