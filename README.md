@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 코딩하는 디자이너 이 승 재 입니다.
+# 👋 Hi, I'm Seungjae Lee
 
 ### Building clean UI with solid structure
 
@@ -42,8 +42,11 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-### 3D Programs
-Rhino / KeyShot / SketchUp / AutoCAD
+### 3D / CAD Tools
+- Rhino
+- KeyShot
+- SketchUp
+- AutoCAD
 
 ---
 
@@ -61,7 +64,7 @@ Rhino / KeyShot / SketchUp / AutoCAD
 - **[K-water](https://github.com/cook2ie/korea-water)**  
   공공기관 웹사이트 메인 페이지 클론코딩 (Team Project)
 
-- **[Logitech Re-design](https://github.com/cook2ie/logi-re)**  
+- **[Logitech Redesign](https://github.com/cook2ie/logi-re)**  
   브랜드 무드를 재해석한 웹 리디자인 프로젝트
 
 ---
@@ -78,10 +81,14 @@ Rhino / KeyShot / SketchUp / AutoCAD
 
 ## 🌐 Portfolio
 
-👉 [https://cook2ie.github.io/port/](https://cook2ie.github.io/port/)
+👉 [cook2ie.github.io/port](https://cook2ie.github.io/port/)
 
 ---
 
+## 📫 Contact
+
+- GitHub: [github.com/cook2ie](https://github.com/cook2ie)
+- Portfolio: [cook2ie.github.io/port](https://cook2ie.github.io/port/)
 ## 📫 Contact
 
 - GitHub: [github.com/cook2ie](https://github.com/cook2ie)
