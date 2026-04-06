@@ -1,11 +1,11 @@
 <div align="center">
 
-# 안녕하세요, 디자인과 퍼블리싱을 함께 다루는 이승재입니다
+# 안녕하세요, 디자인과 퍼블리싱을 함께 다루는 이승재입니다.
 
 ### Building clean UI with solid structure
 
-디자인과 퍼블리싱을 함께 다루는 웹 퍼블리셔입니다.  
-보기 좋은 화면을 넘어서, 구조가 깔끔하고 유지보수가 쉬운 인터페이스를 만드는 데 집중합니다.
+보기 좋은 화면을 넘어서,  
+구조가 깔끔하고 유지보수가 쉬운 인터페이스를 만드는 데 집중합니다.
 
 <br />
 
@@ -18,10 +18,10 @@
 
 ## 🧑‍💻 About Me
 
-- UI/UX를 함께 고민하며 퍼블리싱하는 웹 퍼블리셔
+- 디자인과 퍼블리싱을 함께 고민하는 웹 퍼블리셔
 - HTML, CSS, JavaScript 기반의 구조적인 마크업과 인터페이스 구현에 집중
 - 반응형 레이아웃과 유지보수성을 고려한 코드 작성을 지향
-- 브랜드 무드와 정보 전달의 균형을 중요하게 생각함
+- 사용자 흐름과 브랜드 무드가 자연스럽게 연결되는 화면 구성을 중요하게 생각함
 
 ---
 
@@ -41,6 +41,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+### 3D / CAD Tools
+Rhino / KeyShot / SketchUp / AutoCAD
 
 ---
 
@@ -79,10 +82,6 @@
 
 ---
 
-## 📫 Contact
-
-- GitHub: [github.com/cook2ie](https://github.com/cook2ie)
-- Portfolio: [cook2ie.github.io/port](https://cook2ie.github.io/port/)
 ## 📫 Contact
 
 - GitHub: [github.com/cook2ie](https://github.com/cook2ie)
