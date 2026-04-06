@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요 코딩하는 디자이너 이승재입니다.
+# 안녕하세요, 디자인과 퍼블리싱을 함께 다루는 이승재입니다
 
 ### Building clean UI with solid structure
 
