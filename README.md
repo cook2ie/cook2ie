@@ -42,12 +42,6 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-### 3D / CAD Tools
-- Rhino
-- KeyShot
-- SketchUp
-- AutoCAD
-
 ---
 
 ## 🚀 Projects
