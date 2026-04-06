@@ -61,7 +61,7 @@ Rhino / KeyShot / SketchUp / AutoCAD
 - **[K-water](https://github.com/cook2ie/korea-water)**  
   공공기관 웹사이트 메인 페이지 클론코딩 (Team Project)
 
-- **[Logitech Redesign](https://github.com/cook2ie/logi-re)**  
+- **[Logitech Re-design](https://github.com/cook2ie/logi-re)**  
   브랜드 무드를 재해석한 웹 리디자인 프로젝트
 
 ---
